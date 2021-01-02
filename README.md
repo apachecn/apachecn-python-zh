@@ -4,7 +4,7 @@
 > 
 > 自豪地采用[谷歌翻译](https://translate.google.cn/)
 > 
-> 不要担心自己的形象，只关心如何实现目标。——《原则》，生活原则 2.3.c
+> 软件就像性，免费的比花钱的好得多。——林纳斯·托瓦兹
 
 * [在线阅读](https://py.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/apachecn-python-zh/)
