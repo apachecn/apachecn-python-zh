@@ -17,8 +17,6 @@
 +   [笨办法学 Python · 续 中文版](docs/lmpythw-zh/SUMMARY.md)
 +   [Python 分布式计算](docs/py-dist-comp/SUMMARY.md)
 +   [Learning Scrapy 中文版](docs/learn-scrapy/SUMMARY.md)
-+   [Django By Example 中文版](docs/dj-example/SUMMARY.md)
-+   [Flask Framework Cookbook 中文版](docs/flask-framework-cb/SUMMARY.md)
 
 ## 下载
 
