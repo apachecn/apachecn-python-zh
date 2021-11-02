@@ -17,6 +17,16 @@
 +   [笨办法学 Python · 续 中文版](docs/lmpythw-zh/SUMMARY.md)
 +   [Python 分布式计算](docs/py-dist-comp/SUMMARY.md)
 +   [Learning Scrapy 中文版](docs/learn-scrapy/SUMMARY.md)
++   [Python 物联网入门手册](docs/get-start-py-iot/SUMMARY.md)
++   [Python 密码学实用指南](docs/handson-crypto-py/SUMMARY.md)
++   [Python 企业级自动化实用指南](docs/handson-enter-auto-py/SUMMARY.md)
++   [Python GPU 编程实用指南](docs/handson-gpu-prog-py-cuda/SUMMARY.md)
++   [Python 网络编程学习手册](docs/learn-py-net-prog/SUMMARY.md)
++   [精通 Python 网络编程](docs/master-py-net/SUMMARY.md)
++   [精通 Python 网络和安全编程](docs/master-py-net-sec/SUMMARY.md)
++   [精通 Python 系统管理脚本编程](docs/master-py-script-sys-admin/SUMMARY.md)
++   [Python 自动化秘籍](docs/py-auto-cb/SUMMARY.md)
++   [Python Web 爬取秘籍](docs/py-web-scrape-cb/SUMMARY.md)
 
 ## 下载
 
