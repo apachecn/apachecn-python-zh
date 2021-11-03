@@ -55,6 +55,11 @@ apachecn-python-zh <port>
 ```
 
 ## 贡献指南
+<!--
+无需翻译：
+
+Python Data Structures and Algorithms
+-->
 
 本项目需要校对，欢迎大家提交 Pull Request。
 
