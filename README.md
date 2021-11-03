@@ -27,6 +27,15 @@
 +   [精通 Python 系统管理脚本编程](docs/master-py-script-sys-admin/SUMMARY.md)
 +   [Python 自动化秘籍](docs/py-auto-cb/SUMMARY.md)
 +   [Python Web 爬取秘籍](docs/py-web-scrape-cb/SUMMARY.md)
++   [每个程序员应该直到的 40 个算法](docs/40-algo-every-prog-should-know/SUMMARY.md)
++   [Python 入门指南](docs/get-start-py/SUMMARY.md)
++   [Python BTC 编程实用指南](docs/handson-btc-prog-py/SUMMARY.md)
++   [Python 数据结构和算法实用指南](docs/handson-dsal-py/SUMMARY.md)
++   [通过构建游戏学习 Python](docs/learn-py-build-game/SUMMARY.md)
++   [精通 Python 金融编程](docs/master-py-fin/SUMMARY.md)
++   [Python GUI 编程](docs/py-gui-prog/SUMMARY.md)
++   [Python GUI 编程秘籍](docs/py-gui-prog-cb/SUMMARY.md)
++   [Python 并行编程秘籍](docs/py-paral-prog-cb/SUMMARY.md)
 
 ## 下载
 
