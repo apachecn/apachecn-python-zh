@@ -36,6 +36,16 @@
 +   [Python GUI 编程](docs/py-gui-prog/SUMMARY.md)
 +   [Python GUI 编程秘籍](docs/py-gui-prog-cb/SUMMARY.md)
 +   [Python 并行编程秘籍](docs/py-paral-prog-cb/SUMMARY.md)
++   [Python 数学应用](docs/app-math-py/SUMMARY.md)
++   [Python 物联网编程](docs/iot-prog-proj/SUMMARY.md)
++   [精通 Python GUI 编程](docs/master-gui-prog-py/SUMMARY.md)
++   [现代 Python 秘籍](docs/modern-py-cb/SUMMARY.md)
++   [现代 Python 标准库秘籍](docs/modern-py-std-lib-cb/SUMMARY.md)
++   [Python 数字取证秘籍](docs/py-digi-fore-cb/SUMMARY.md)
++   [Python 编程蓝图](docs/py-prog-blueprint/SUMMARY.md)
++   [Pytest 快速入门指南](docs/pytest-quick-start-guide/SUMMARY.md)
++   [Python 统计和微积分研讨会](docs/stat-calc-py-workshop/SUMMARY.md)
++   [Tkinter GUI 应用开发秘籍](docs/tkinter-gui-app-dev-cb/SUMMARY.md)
 
 ## 下载
 
