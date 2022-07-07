@@ -4,6 +4,8 @@
 
 译者：[飞龙](https://github.com/wizardforcel)
 
+阶段：精细校对（4）
+
 自豪地采用[谷歌翻译](https://translate.google.cn/)
 
 + [在线阅读](https://lmpythw.apachecn.org)
