@@ -7,6 +7,8 @@
 
 
 > 翻译 [CycleUser](http://blog.cycleuser.org)
+>
+> 阶段：精细校对（4）
 
 
 +   [在线阅读](https://think-py.apachecn.org)
